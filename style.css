@@ -1,0 +1,317 @@
+.navbar{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(252, 243, 232);
+    
+}
+.topview{
+
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    color: #502C1C;
+    margin-right: 865px;
+    margin-top: 60px;
+}
+.left{
+    margin-left:40px ;
+    font-style: normal;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    height: 79px;
+    width: 10x;
+    margin-left: 78px;
+    margin-top: 38px;
+
+}
+body{
+    margin: 0;
+    background-color:#F9F5EF;
+}
+.write{
+    text-align: center;
+}
+.container{
+    width: 100;
+    height: 79vh;
+    background-image:url(images/choco.avif);
+    background-size:cover;
+    text-align: center; 
+     
+}
+.inner{
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    left:50% ;
+    transform: translate(-50%,-50%);
+    color: azure;
+    font-size: 25px;
+    font-family:cursive;
+}
+
+.centertop{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.chocos{
+    position: relative;
+    top: 0;
+    left: 0;
+   
+}
+.galaxy{
+    position: absolute;
+    top: 66px;
+    left: 79px;
+    
+
+}
+.centerdown{
+    background-color: #F9F5EF;;
+}
+
+.write{
+    position: relative;
+    font-weight: 300;
+    font-size: 3.2rem;
+    font-style: italic;
+    color: #502C1C;
+    height: 69px;
+    
+}
+.line{
+    align-items: center;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+
+.collectionsimg{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    
+}
+.collectiontext{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #502C1C; 
+    text-align: center;
+}
+.collectionbutton{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+button{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 187px;
+    background-color: #e02466;
+    border-color: #e02466;
+    cursor: pointer;
+    color: white;
+    border-radius: 38px; 
+    margin-bottom: 40px; 
+    font-size: 15px ;
+
+     
+}
+button:hover{
+    color: white;
+    background-color: white;
+    cursor: pointer;
+}
+.centerdown{
+     display: flex; 
+    justify-content: space-evenly;
+    flex-direction: column;
+     align-items: center;  
+    background-size: cover; 
+    background-image: url('images/chocolash.avif');
+    height: 530px;
+    color:white;
+}
+
+   
+.discovering{
+    position:relative ;
+    font-weight: 300;
+    font-size: 3.2rem;
+    font-style: italic;
+    color: #502C1C;
+    height: 69px;
+    text-align: center;
+    
+
+
+}
+.line3{
+    align-items: center;
+    margin-left: 700px;
+     margin-bottom: 100px; 
+     
+
+
+}
+.discover{
+    display: flex;
+    justify-content: space-evenly;
+    color: #502C1C;
+    
+
+    
+}
+.collection-showing{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+    text-align: center;
+    background-color:#F9F5EF;
+
+}
+.collection-story{
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    text-align: center;
+    background-color:#F9F5EF;
+}
+.visit-social{
+    position:relative ;
+    font-weight: 300;
+    font-size: 3.2rem;
+    font-style: italic;
+    color: #502C1C;
+    height: 69px;
+    text-align: center;
+    
+
+}
+
+h2:hover{
+    color: #e02466;
+    cursor: pointer;
+}
+.line4{
+    align-items: center;
+    margin-left: 700px;
+    margin-bottom: 80px;
+     
+}
+.ad-images{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    margin-bottom: 200px;
+
+}
+.logo-address{
+    
+    color: #502C1C;
+    
+
+
+}
+.text{
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    color: #502C1C;
+    margin-right: 472px;
+    margin-top: 60px;
+
+
+}
+.right{
+    margin-left:40px ;
+    font-style: normal;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4:hover{
+    color: #e02466;
+    cursor: pointer;
+
+}
+.footer-sec1{
+    background-color: #502C1C;
+    height: 400px;
+    width:105%;
+    margin: -29px;
+    padding: 0;
+    border: 0;
+
+    
+
+}
+.follow{
+    color: #F9F5EF;
+    text-align: left;
+    margin-left: 130px;
+   
+
+
+}
+.sec2{
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 448px;
+    color: #F9F5EF;
+    cursor: pointer;
+    
+}
+.sec3{
+    
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 448px;
+    color: #F9F5EF;
+    cursor: pointer;
+
+}
+.sec4{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    margin-left: 488px;
+    color: #F9F5EF;
+    cursor: pointer;
+
+}
+.sec5{
+    color: #F9F5EF;
+    margin-left: 100px;
+
+}
+.last{
+    border-color: #F9F5EF;
+    color: #F9F5EF;
+    background-color:#502C1C;
+    margin-left: 110px;
+}
+.end{
+    height: 50px;
+    margin-left: 1000px;
+}
+.heading{
+    width: 200px;
+}
+
+
+
+
+
+
